@@ -1,0 +1,11 @@
+
+{{ define "main" }}
+  {{- partial "archive" . }}
+  <h1>{{.Site.Title}}</h1>
+  <a href="{{ .Params.link_externo }}">Enlace a la Página de Ejemplo</a>
+    {{ .Content }}
+</div>
+
+{{ end }}
+
+
