@@ -9,7 +9,7 @@ draft = false
 >_La ruta hasta la Cola de Caballo por el camino clásico del valle de Ordesa es una de las excursiones más populares y conocidas de los Pirineos. Este itinerario nos permite adentrarnos en el largo y espectacular valle de Ordesa, que en 1997 fue declarado Patrimonio de la Humanidad por la UNESCO y constituye un espacio natural de una belleza excepcional. Durante el recorrido podremos admirar las espectaculares paredes del valle, excavadas por la erosión de un antiguo glaciar, disfrutar de los diversos saltos de agua que presenta el río Arazas: la cascada de Arripas, la cascada del Estrecho, las Gradas de Soaso,... y conocer la gran riqueza natural del valle. Dada su popularidad, esta ruta suele estar muy concurrida, sobre todo durante los meses de verano._
 
 [Enlace para conocer más información acerca de la Cola de Caballo](https://www.rutaspirineos.org/rutas/cola-de-caballo-por-las-gradas-de-soaso)
-{{<imagen nombre="coladecaballo.jpg">}}
+{{<imagenpequeña nombre="coladecaballo.jpg">}}
 
 
 - -
